@@ -1,2 +1,2 @@
-# DBMS-2020-2021
-Database Management Systems (2020-2021)
+# Database Management Systems (2020-2021) - 2 курс
+Прикрепила таски, которые решала в университете по предмету датабейс
